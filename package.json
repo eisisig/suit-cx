@@ -1,0 +1,29 @@
+{
+  "name": "suit-cx",
+  "version": "1.0.0",
+  "description": "Small extention to bem-classnames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eisi Sig",
+  "license": "MIT",
+  "dependencies": {
+    "bem-classnames": "^1.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eisisig/suit-cx.git"
+  },
+  "keywords": [
+    "react",
+    "suit",
+    "cx",
+    "css"
+  ],
+  "bugs": {
+    "url": "https://github.com/eisisig/suit-cx/issues"
+  },
+  "homepage": "https://github.com/eisisig/suit-cx#readme"
+}
